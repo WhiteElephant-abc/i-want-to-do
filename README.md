@@ -1,1 +1,7 @@
 # 代办列表
+- 【[CDFZ]重蹈覆辙（Re-play）】：通过盔甲架记录玩家轨迹，下一玩家通过tp重复上一玩家轨迹
+- 【[TRPM]真正的和平模式（The real peace mode）】：通过队伍系统使生物不敌对
+- 【[HTW]水是剧毒的（Highly toxic water）】：碰到水则中毒
+- 【[BRB]贿赂（bribe）】：给生物仍对应物品，则使其不与玩家敌对
+- 【[AUT]自闭症（autism）】：通过DFL包的fill_outline函数包围玩家，玩家不动时，不生成玻璃
+- 【[NPT]防爆（NO Primed TNT）】：在所有被激活的TNT处放置TNT，并杀死被激活的TNT
